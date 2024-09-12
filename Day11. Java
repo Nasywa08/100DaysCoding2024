@@ -1,0 +1,12 @@
+public class Day11 {
+    public static void main(String[] args){
+        System.out.println("membuat variabel dgn tipe data short");
+        
+        short apotek,klinik;
+        apotek =1000;
+        klinik =100;
+         
+        System.out.println("jumlah apotek dan klinik yg ada di kota adalah");
+        System.out.println(1000+100);
+    }
+}
