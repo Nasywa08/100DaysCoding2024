@@ -1,0 +1,12 @@
+public class Day17 {
+    public static void main(String[] args){
+        
+        char gender,gender2;
+        gender ='p';
+        gender2 ='l';
+        
+        System.out.println("gender anggi adalah:"+gender);
+        System.out.println("gender angga adalah:"+gender2);
+        
+    }
+}
