@@ -1,0 +1,12 @@
+public class DAY58 {
+    public static void main(String[] args) {
+         System.out.println("Looping while: decrement");
+        int a = 10;
+        
+        while(a >= 1){
+            System.out.print(a+" ");
+            a--;
+            
+        }
+    }
+}
