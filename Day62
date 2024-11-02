@@ -1,0 +1,14 @@
+public class DAY62 {
+    public static void main(String[] args) {
+        System.out.println("keyword break");
+        
+        for (int i = 1; i < 5; i++) {
+           if(i > 3 ){
+               System.out.println("sembarang");
+               break;
+               
+           }
+          
+        }
+    }
+}
