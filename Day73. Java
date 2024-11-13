@@ -1,0 +1,9 @@
+public class DAY73 {
+    public static void main(String[] args) {
+        String nama ="Nasywa Azzah Syaqih";
+        
+        System.out.println(nama);
+        System.out.println("char[18]: "+nama.charAt(18));
+    }
+    
+}
