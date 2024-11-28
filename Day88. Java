@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class DAY88 {
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        double r, t;
+        System.out.print("jari jari: ");
+        r = sc.nextDouble();
+        System.out.print("tinggi: ");
+        t = sc.nextDouble();
+
+        final double phi = 3.14;
+        double v = phi * r * r * t;
+
+       System.out.printf("Volume tabung: %.2f m^3\n", v);
+
+    }
+
+}
